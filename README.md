@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souvikun
 - 👀 I’m interested in Anime, photography, technology
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
