@@ -34,8 +34,3 @@ Electrical Engineering student with a deep focus on power systems, embedded circ
 </p>
 
 ---
-
-### 📬 Connect With Me
-
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
