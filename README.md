@@ -20,17 +20,3 @@ Electrical Engineering student with a deep focus on power systems, embedded circ
 * **Hardware Prototyping:** Designing and debugging analog/digital breadboard circuits, timing controllers, and custom power transformers.
 * **System Optimization:** Fine-tuning immutable Linux setups, shell workflows, and local developer environments.
 * **Engineering Problem Solving:** Deep-diving into network analysis, linear systems, and lateral engineering mathematics.
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Souvik's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
