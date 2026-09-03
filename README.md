@@ -1,6 +1,6 @@
 # Hi there, I'm Souvik Das 👋
 
-Electrical & Electronics Engineering student with a deep focus on power systems, embedded circuits, and open-source computing. I spend my time designing hardware from scratch, optimizing Linux workflows, and building practical automation tools.
+Electrical Engineering student with a deep focus on power systems, embedded circuits, and open-source computing. I spend my time designing hardware from scratch, optimizing Linux workflows, and building practical automation tools.
 
 ---
 
